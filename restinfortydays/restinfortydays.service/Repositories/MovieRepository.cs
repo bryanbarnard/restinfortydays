@@ -46,7 +46,7 @@ namespace restinfortydays.service.Repositories
             return _movies;
         }
 
-        public Movie CreateMovie(domain.Movie movie)
+        public Movie CreateMovie(Movie movie)
         {
             int index = _movies.FindIndex(x => x.Id == movie.Id);
 
