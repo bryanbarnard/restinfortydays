@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Web Developer Express 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restinfortydays.domain", "restinfortydays.domain\restinfortydays.domain.csproj", "{5444C71B-DA52-45D3-8FA7-9BE95ACB5F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restinfortydays.service", "restinfortydays.service\restinfortydays.service.csproj", "{D7C99CE1-FB85-4A20-B927-AAD4BEF20A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5444C71B-DA52-45D3-8FA7-9BE95ACB5F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5444C71B-DA52-45D3-8FA7-9BE95ACB5F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5444C71B-DA52-45D3-8FA7-9BE95ACB5F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5444C71B-DA52-45D3-8FA7-9BE95ACB5F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C99CE1-FB85-4A20-B927-AAD4BEF20A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C99CE1-FB85-4A20-B927-AAD4BEF20A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C99CE1-FB85-4A20-B927-AAD4BEF20A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C99CE1-FB85-4A20-B927-AAD4BEF20A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
